@@ -1,0 +1,2 @@
+D:\monitor_projects\code\src\first_ffmpeg\Debug\first_ffmpeg.exe
+D:\monitor_projects\Monitoring\src\first_ffmpeg\Debug\first_ffmpeg.exe

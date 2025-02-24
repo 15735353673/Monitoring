@@ -1,0 +1,2 @@
+D:\monitor_projects\code\src\first_QTd\Debug\first_QTd.exe
+D:\monitor_projects\Monitoring\src\first_QTd\Debug\first_QTd.exe

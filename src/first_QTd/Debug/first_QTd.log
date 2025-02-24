@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 5.12.10
+  first_qtd.cpp
+  main.cpp
+  qrc_first_qtd.cpp
+  moc_first_qtd.cpp
+  first_QTd.vcxproj -> D:\monitor_projects\Monitoring\src\first_QTd\Debug\first_QTd.exe
